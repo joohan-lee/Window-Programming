@@ -2,7 +2,7 @@
 
 ### Yonsei University, Window Programming(ITD3008), Prof.Hwang
 
-### Grade: A
+### Grade: A+
 
 ### All HWs are writing MFC program with specific functions.
 
