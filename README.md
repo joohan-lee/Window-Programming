@@ -1,6 +1,6 @@
 # Window-Programming
 
-### Yonsei University, Window Programming, Prof.Hwang
+### Yonsei University, Window Programming(ITD3008), Prof.Hwang
 
 ### Grade: A
 
