@@ -1,0 +1,36 @@
+﻿빌드 시작: 2017-06-27 오전 3:17:49
+     1>2 노드의 "C:\Users\jooha\Documents\Visual Studio 2015\Projects\2017-1\MFC_6_mathGraphs\MFC_6_mathGraphs\MFC_6_mathGraphs.vcxproj" 프로젝트(Build 대상)입니다.
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Yc"stdafx.h" /Fp"Debug\MFC_6_mathGraphs.pch" /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Yu"stdafx.h" /Fp"Debug\MFC_6_mathGraphs.pch" /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt GraphBoard.cpp MainFrm.cpp MFC_6_mathGraphs.cpp MFC_6_mathGraphsDoc.cpp MFC_6_mathGraphsView.cpp
+         MFC_6_mathGraphsView.cpp
+     1>c:\users\jooha\documents\visual studio 2015\projects\2017-1\mfc_6_mathgraphs\mfc_6_mathgraphs\mfc_6_mathgraphsview.cpp(102): warning C4838: 'int'에서 'UINT'(으)로의 변환에는 축소 변환이 필요합니다.
+     1>c:\users\jooha\documents\visual studio 2015\projects\2017-1\mfc_6_mathgraphs\mfc_6_mathgraphs\mfc_6_mathgraphsview.cpp(253): warning C4244: '=': 'double'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>c:\users\jooha\documents\visual studio 2015\projects\2017-1\mfc_6_mathgraphs\mfc_6_mathgraphs\mfc_6_mathgraphsview.cpp(274): warning C4244: '=': 'double'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>c:\users\jooha\documents\visual studio 2015\projects\2017-1\mfc_6_mathgraphs\mfc_6_mathgraphs\mfc_6_mathgraphsview.cpp(287): warning C4244: '=': 'double'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>c:\users\jooha\documents\visual studio 2015\projects\2017-1\mfc_6_mathgraphs\mfc_6_mathgraphs\mfc_6_mathgraphsview.cpp(302): warning C4244: '=': 'double'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>c:\users\jooha\documents\visual studio 2015\projects\2017-1\mfc_6_mathgraphs\mfc_6_mathgraphs\mfc_6_mathgraphsview.cpp(315): warning C4244: '=': 'double'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>c:\users\jooha\documents\visual studio 2015\projects\2017-1\mfc_6_mathgraphs\mfc_6_mathgraphs\mfc_6_mathgraphsview.cpp(324): warning C4244: '=': 'double'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>c:\users\jooha\documents\visual studio 2015\projects\2017-1\mfc_6_mathgraphs\mfc_6_mathgraphs\mfc_6_mathgraphsview.cpp(337): warning C4244: '=': 'double'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+         MFC_6_mathGraphsDoc.cpp
+         MFC_6_mathGraphs.cpp
+         MainFrm.cpp
+         GraphBoard.cpp
+         코드를 생성하고 있습니다...
+       ResourceCompile:
+         C:\Program Files (x86)\Windows Kits\8.1\bin\x86\rc.exe /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /l"0x0412" /IDebug\ /nologo /fo"Debug\MFC_6_mathGraphs.res" MFC_6_mathGraphs.rc 
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\jooha\Documents\Visual Studio 2015\Projects\2017-1\MFC_6_mathGraphs\Debug\MFC_6_mathGraphs.exe" /INCREMENTAL /NOLOGO /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:"C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\Include\Manifest\dpiaware.manifest" /DEBUG:FASTLINK /PDB:"C:\Users\jooha\Documents\Visual Studio 2015\Projects\2017-1\MFC_6_mathGraphs\Debug\MFC_6_mathGraphs.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"wWinMainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\jooha\Documents\Visual Studio 2015\Projects\2017-1\MFC_6_mathGraphs\Debug\MFC_6_mathGraphs.lib" /MACHINE:X86 Debug\MFC_6_mathGraphs.res
+         Debug\GraphBoard.obj
+         Debug\MainFrm.obj
+         Debug\MFC_6_mathGraphs.obj
+         Debug\MFC_6_mathGraphsDoc.obj
+         Debug\MFC_6_mathGraphsView.obj
+         Debug\stdafx.obj
+         MFC_6_mathGraphs.vcxproj -> C:\Users\jooha\Documents\Visual Studio 2015\Projects\2017-1\MFC_6_mathGraphs\Debug\MFC_6_mathGraphs.exe
+     1>"C:\Users\jooha\Documents\Visual Studio 2015\Projects\2017-1\MFC_6_mathGraphs\MFC_6_mathGraphs\MFC_6_mathGraphs.vcxproj" 프로젝트를 빌드했습니다(Build 대상).
+
+빌드했습니다.
+
+경과 시간: 00:00:17.89

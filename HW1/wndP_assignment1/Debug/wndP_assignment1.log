@@ -1,0 +1,14 @@
+﻿빌드 시작: 2017-03-26 오후 10:38:07
+     1>2 노드의 "C:\Users\jooha\Documents\Visual Studio 2015\Projects\wndP_assignment1\wndP_assignment1\wndP_assignment1.vcxproj" 프로젝트(Build 대상)입니다.
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _UNICODE /D UNICODE /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt assignment1.cpp
+         assignment1.cpp
+         _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\jooha\Documents\Visual Studio 2015\Projects\wndP_assignment1\Debug\wndP_assignment1.exe" /INCREMENTAL /NOLOGO /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:"C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\Include\Manifest\dpiaware.manifest" /Debug /PDB:"C:\Users\jooha\Documents\Visual Studio 2015\Projects\wndP_assignment1\Debug\wndP_assignment1.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"wWinMainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\jooha\Documents\Visual Studio 2015\Projects\wndP_assignment1\Debug\wndP_assignment1.lib" /MACHINE:X86 Debug\assignment1.obj
+         wndP_assignment1.vcxproj -> C:\Users\jooha\Documents\Visual Studio 2015\Projects\wndP_assignment1\Debug\wndP_assignment1.exe
+     1>"C:\Users\jooha\Documents\Visual Studio 2015\Projects\wndP_assignment1\wndP_assignment1\wndP_assignment1.vcxproj" 프로젝트를 빌드했습니다(Build 대상).
+
+빌드했습니다.
+
+경과 시간: 00:00:03.64
